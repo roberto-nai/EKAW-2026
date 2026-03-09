@@ -2,9 +2,9 @@
 
 ## Authors
 
-Roberto Nai, Vittoria Margherita Sofia Trifiletti, Emilio Sulis   
-University of Turin  
-
+Roberto Nai (1), Vittoria Margherita Sofia Trifiletti (1), Emilio Sulis (1) and Alessandro Gianola (2)   
+(1) University of Turin  
+(2) Universidade de Lisboa
 ---
 
 ## About the Paper
@@ -21,9 +21,15 @@ The case study is grounded in publicly available data from the Court of Justice 
 - Declarative modelling using Declare  
 - Deterministic conformance checking via Declare4Py  
 - Rule impact ranking through leave-one-rule-out analysis  
-- LLM disagreement study on high-impact constraints  
+- LLM agreement study on high-impact constraints  
 
 The study demonstrates how regulatory text can be operationalised into machine-executable compliance specifications and evaluated in an institutional judicial setting.
+
+---
+
+## Figures
+
+The `images` folder contains the high-resolution figures used in the paper.
 
 ---
 
