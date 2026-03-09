@@ -2,9 +2,9 @@
 
 ## Authors
 
-Roberto Nai (1), Vittoria Margherita Sofia Trifiletti (1), Emilio Sulis (1) and Alessandro Gianola (2)   
-(1) University of Turin  
-(2) Universidade de Lisboa
+Roberto Nai (1), Vittoria Margherita Sofia Trifiletti (1), Emilio Sulis (1) and Alessandro Gianola (2)
+
+<sub>(1) University of Turin<br>(2) Universidade de Lisboa</sub>
 ---
 
 ## About the Paper
