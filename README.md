@@ -32,6 +32,8 @@ The study demonstrates how regulatory text can be operationalised into machine-e
 
 The `images` folder contains the high-resolution figures used in the paper.
 
+The `event_log` folder contains the event log used in the paper for the experiments.
+
 ---
 
 ## Related Repositories
