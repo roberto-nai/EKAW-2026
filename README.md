@@ -55,8 +55,3 @@ Rule extraction, Declare model generation, deterministic conformance checking, i
 **Roberto Nai**   
 Email: *roberto.nai@unito.it*  
 
----
-
-## Citation
-
-If you use this work, please cite the corresponding paper (citation details will be added upon publication).
